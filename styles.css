@@ -50,8 +50,8 @@ table{
 }
 th, td {
   margin-left: 280px;
-  padding-left: 85px;
-  padding-right:  105px;
+  padding-left: 5px;
+  padding-right:  5px;
   padding-top: 1px;
   text-align: center;
 }
