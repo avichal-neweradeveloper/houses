@@ -50,12 +50,12 @@ table{
   width:auto;
 }
 th, td {
-  margin-left: 280px;
+/*   margin-left: 280px; */
   padding-left: 65px;
   padding-right:  65px;
   padding-top: 1px;
   text-align: center;
-  with : 100%;
+/*   with : 100%; */
 }
 /*div{
   background-color: #DEF4F0;
